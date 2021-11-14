@@ -1,2 +1,2 @@
-# Past-Work
+# Divya Tadimeti
 Coursework, Projects, and Code
